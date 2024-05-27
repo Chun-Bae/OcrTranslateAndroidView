@@ -1,6 +1,7 @@
 # ocr_translate
-
-A new Flutter project.
+딥러닝 시스템 과제: AI OCR 인식 및 번역 모바일(안드로이드)앱 뷰.  
+  
+메인 기능이 아니기 때문에 번역 설정과 카메라 기능만 담겨져 있음.
 
 ## Getting Started
 
